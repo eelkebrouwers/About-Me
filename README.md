@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eelkebrouwers
 - 👀 I’m interested in data analytics and visualization
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently following the Data Analyst nanodegree programm from Udacity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
